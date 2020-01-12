@@ -1,0 +1,15 @@
+HTTrack3.49-2 launched on Sat, 11 Jan 2020 21:20:11 at https://zainx.netlify.com/index2.html
+(winhttrack https://zainx.netlify.com/index2.html -O "website/portfolio2" -Y -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:21:12	Error: 	"Not Found" (404) at link https://zainx.netlify.com/fonts/icofont.svg?v=1.0.0-beta (from https://zainx.netlify.com/css/plugins/icofont.css)
+21:21:12	Error: 	"Not Found" (404) at link https://zainx.netlify.com/fonts/fa-brands-400.svg (from https://zainx.netlify.com/css/plugins/fontawesome-all.min.css)
+21:21:12	Error: 	"Not Found" (404) at link https://zainx.netlify.com/fonts/fa-regular-400.svg (from https://zainx.netlify.com/css/plugins/fontawesome-all.min.css)
+21:21:12	Error: 	"Not Found" (404) at link https://zainx.netlify.com/fonts/fa-solid-900.svg (from https://zainx.netlify.com/css/plugins/fontawesome-all.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 1 seconds : 61 links scanned, 55 files written (5201536 bytes overall) [3660181 bytes received at 60002 bytes/sec], 4225889 bytes transferred using HTTP compression in 37 files, ratio 62%, 7.6 requests per connection
+(4 errors, 0 warnings, 0 messages)
